@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e68c1640_c493eb8a",
+        "filename": "config/ruby.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000468
+      },
+      "writtenOn": "2020-11-26T18:14:17Z",
+      "side": 1,
+      "message": "Lineage-17.1.yaml?",
+      "revId": "be4f7e92f6ddeb1575340a408024ba6825058f7d",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a1b163c0_dceb8ecd",
+        "filename": "config/ruby.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 216,
+      "author": {
+        "id": 1000468
+      },
+      "writtenOn": "2020-11-26T18:14:17Z",
+      "side": 1,
+      "message": "Launcher3",
+      "revId": "be4f7e92f6ddeb1575340a408024ba6825058f7d",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": true
+    }
+  ]
+}
