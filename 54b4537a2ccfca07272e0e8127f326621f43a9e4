@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d08de053_8a6c978a",
+        "filename": "crowdin_sync.py",
+        "patchSetId": 5
+      },
+      "lineNbr": 575,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2020-12-20T14:48:38Z",
+      "side": 1,
+      "message": "why would we load the same xml twice? if we only need one, kill one of the two sections and calls",
+      "revId": "54b4537a2ccfca07272e0e8127f326621f43a9e4",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
