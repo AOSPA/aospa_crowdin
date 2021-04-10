@@ -29,7 +29,7 @@ files:
   # framework-res
   -
     source:      '/frameworks/base/core/res/res/values/pa_strings.xml'
-    translation: '/%original_path%-%android_code%/%original_file_name%'
+    translation: '/frameworks/base/core/res/res/values-%android_code%/%original_file_name%'
     languages_mapping: &anchor
       android_code:
         # Afrikaans
@@ -199,34 +199,28 @@ files:
         # Zulu
         zu: zu
 
-  # SettingsLib
-  -
-    source:      '/frameworks/base/packages/SettingsLib/res/values/pa_strings.xml'
-    translation: '/%original_path%-%android_code%/%original_file_name%'
-    languages_mapping: *anchor
-
   # SystemUI
   -
     source:      '/frameworks/base/packages/SystemUI/res/values/pa_strings.xml'
-    translation: '/%original_path%-%android_code%/%original_file_name%'
+    translation: '/frameworks/base/packages/SystemUI/res/values-%android_code%/%original_file_name%'
     languages_mapping: *anchor
 
 # Packages
 
-  # Settings
+  # Paranoid Launcher
   -
     source:      '/packages/apps/Launcher3/res/values/pa_strings.xml'
-    translation: '/%original_path%-%android_code%/%original_file_name%'
+    translation: '/packages/apps/Launcher3/res/values-%android_code%/%original_file_name%'
     languages_mapping: *anchor
 
   # Settings
   -
     source:      '/packages/apps/Settings/res/values/pa_strings.xml'
-    translation: '/%original_path%-%android_code%/%original_file_name%'
+    translation: '/packages/apps/Settings/res/values-%android_code%/%original_file_name%'
     languages_mapping: *anchor
 
   # Paranoid Doze
   -
     source:      '/packages/apps/ParanoidDoze/res/values/strings.xml'
-    translation: '/%original_path%-%android_code%/%original_file_name%'
+    translation: '/packages/apps/ParanoidDoze/res/values-%android_code%/%original_file_name%'
     languages_mapping: *anchor
