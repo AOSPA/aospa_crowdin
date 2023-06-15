@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1a816a4e_0a9f0785",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 19
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000488
+      },
+      "writtenOn": "2023-06-15T10:05:57Z",
+      "side": 1,
+      "message": "only issue is automating the script to git add and gerrit push files from vendor/aospa/overlay/translations and not from the project\u0027s name. we could hardcode the paths but want someone else to give an idea, if any better.",
+      "revId": "001d7a602f2cd33b95ef2caeb89f3619fcd1c3a0",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
