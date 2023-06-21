@@ -428,7 +428,7 @@ def upload_sources_crowdin(branch, config_dict, crowdin_path):
 
 def upload_translations_crowdin(branch, config_dict, crowdin_path):
     for cfg in config_dict:
-        print(f"\nUploading translations to Crowdin ({config_dict})")
+        print(f"\nUploading translations to Crowdin ({cfg})")
         cmd = [
             crowdin_path,
             'upload', 'translations', f'--branch={branch}',
