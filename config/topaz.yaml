@@ -71,14 +71,6 @@
         "da": "da",
         # Dutch
         "nl": "nl",
-        # English, Australia
-        "en-AU": "en-rAU",
-        # English, Canada
-        "en-CA": "en-rCA",
-        # English, India
-        "en-IN": "en-rIN",
-        # English, United Kingdom
-        "en-GB": "en-rGB",
         # Estonian
         "et": "et",
         # Finnish
