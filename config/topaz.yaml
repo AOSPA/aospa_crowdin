@@ -229,6 +229,11 @@
     "languages_mapping" : *anchor
   },
   {
+    "source":      "/packages/resources/devicesettings/res/values/strings.xml",
+    "translation": "/vendor/aospa/overlay/translations/AOSPADeviceSettingsTranslation/res/values-%android_code%/%original_file_name%",
+    "languages_mapping" : *anchor
+  },
+  {
     "source":      "/vendor/aospa/apps/ParanoidThemePicker/res/values/strings.xml",
     "translation": "/vendor/aospa/overlay/translations/ParanoidThemePickerTranslation/res/values-%android_code%/%original_file_name%",
     "languages_mapping" : *anchor
