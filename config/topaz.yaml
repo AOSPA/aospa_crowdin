@@ -26,7 +26,7 @@
 "files": [
   {
     "source":      "/frameworks/base/core/res/res/values/aospa_strings.xml",
-    "translation": "/vendor/aospa/overlay/translations/AOSPAFrameworksTranslation/res/values-%android_code%/%original_file_name%",
+    "translation": "/vendor/aospa/translations/AOSPAFrameworksTranslation/res/values-%android_code%/%original_file_name%",
     "languages_mapping" : &anchor {
       "android_code" : {
         # Afrikaans
@@ -190,47 +190,47 @@
   },
   {
     "source":      "/packages/apps/Paranoid/SystemUI/res/values/aospa_strings.xml",
-    "translation": "/vendor/aospa/overlay/translations/ParanoidSystemUITranslation/res/values-%android_code%/%original_file_name%",
+    "translation": "/vendor/aospa/translations/ParanoidSystemUITranslation/res/values-%android_code%/%original_file_name%",
     "languages_mapping" : *anchor
   },
   {
     "source":      "/packages/apps/ParanoidDoze/res/values/strings.xml",
-    "translation": "/vendor/aospa/overlay/translations/ParanoidDozeTranslation/res/values-%android_code%/%original_file_name%",
+    "translation": "/vendor/aospa/translations/ParanoidDozeTranslation/res/values-%android_code%/%original_file_name%",
     "languages_mapping" : *anchor
   },
   {
     "source":      "/packages/apps/ParanoidGlyph/res/values/strings.xml",
-    "translation": "/vendor/aospa/overlay/translations/ParanoidGlyphTranslation/res/values-%android_code%/%original_file_name%",
+    "translation": "/vendor/aospa/translations/ParanoidGlyphTranslation/res/values-%android_code%/%original_file_name%",
     "languages_mapping" : *anchor
   },
   {
     "source":      "/packages/apps/ParanoidHub/res/values/strings.xml",
-    "translation": "/vendor/aospa/overlay/translations/ParanoidHubTranslation/res/values-%android_code%/%original_file_name%",
+    "translation": "/vendor/aospa/translations/ParanoidHubTranslation/res/values-%android_code%/%original_file_name%",
     "languages_mapping" : *anchor
   },
   {
     "source":      "/packages/apps/Launcher3/res/values/aospa_strings.xml",
-    "translation": "/vendor/aospa/overlay/translations/ParanoidLauncherTranslation/res/values-%android_code%/%original_file_name%",
+    "translation": "/vendor/aospa/translations/ParanoidLauncherTranslation/res/values-%android_code%/%original_file_name%",
     "languages_mapping" : *anchor
   },
   {
     "source":      "/packages/apps/ParanoidPapers/res/values/strings.xml",
-    "translation": "/vendor/aospa/overlay/translations/ParanoidPapersTranslation/res/values-%android_code%/%original_file_name%",
+    "translation": "/vendor/aospa/translations/ParanoidPapersTranslation/res/values-%android_code%/%original_file_name%",
     "languages_mapping" : *anchor
   },
   {
     "source":      "/packages/apps/ParanoidSense/res/values/strings.xml",
-    "translation": "/vendor/aospa/overlay/translations/ParanoidSenseTranslation/res/values-%android_code%/%original_file_name%",
+    "translation": "/vendor/aospa/translations/ParanoidSenseTranslation/res/values-%android_code%/%original_file_name%",
     "languages_mapping" : *anchor
   },
   {
     "source":      "/packages/apps/Settings/res/values/aospa_strings.xml",
-    "translation": "/vendor/aospa/overlay/translations/AOSPASettingsTranslation/res/values-%android_code%/%original_file_name%",
+    "translation": "/vendor/aospa/translations/AOSPASettingsTranslation/res/values-%android_code%/%original_file_name%",
     "languages_mapping" : *anchor
   },
   {
     "source":      "/vendor/aospa/apps/ParanoidThemePicker/res/values/strings.xml",
-    "translation": "/vendor/aospa/overlay/translations/ParanoidThemePickerTranslation/res/values-%android_code%/%original_file_name%",
+    "translation": "/vendor/aospa/translations/ParanoidThemePickerTranslation/res/values-%android_code%/%original_file_name%",
     "languages_mapping" : *anchor
   },
 ]
