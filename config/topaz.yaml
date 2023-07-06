@@ -214,6 +214,11 @@
     "languages_mapping" : *anchor
   },
   {
+    "source":      "/packages/apps/Launcher3/quickstep/res/values/aospa_strings.xml",
+    "translation": "/vendor/aospa/translations/ParanoidLauncherQuickstepTranslation/res/values-%android_code%/%original_file_name%",
+    "languages_mapping" : *anchor
+  },
+  {
     "source":      "/packages/apps/ParanoidPapers/res/values/strings.xml",
     "translation": "/vendor/aospa/translations/ParanoidPapersTranslation/res/values-%android_code%/%original_file_name%",
     "languages_mapping" : *anchor
